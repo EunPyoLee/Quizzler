@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>10254EB6-556A-406A-9708-F377751F7891</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>10254EB6-556A-406A-9708-F377751F7891.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quizzler-iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quizzler-iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Quizzler-iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>600753130.187953</real>
+			<key>timeStoppedRecording</key>
+			<real>600753318.87375104</real>
+			<key>title</key>
+			<string>Debug Quizzler-iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>10254EB6-556A-406A-9708-F377751F7891</string>
+		</dict>
+		<key>6D77E8B5-7A1F-43D3-96F4-5D958F2422EE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6D77E8B5-7A1F-43D3-96F4-5D958F2422EE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quizzler-iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quizzler-iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Quizzler-iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>596093092.99174798</real>
+			<key>timeStoppedRecording</key>
+			<real>596093141.62516403</real>
+			<key>title</key>
+			<string>Debug Quizzler-iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>6D77E8B5-7A1F-43D3-96F4-5D958F2422EE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

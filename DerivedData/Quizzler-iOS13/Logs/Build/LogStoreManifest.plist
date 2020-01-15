@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>53D449DF-EC2D-4CA4-9966-71318E1F6CC7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>53D449DF-EC2D-4CA4-9966-71318E1F6CC7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quizzler-iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quizzler-iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Quizzler-iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>600753117.61293602</real>
+			<key>timeStoppedRecording</key>
+			<real>600753130.14012396</real>
+			<key>title</key>
+			<string>Build Quizzler-iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>53D449DF-EC2D-4CA4-9966-71318E1F6CC7</string>
+		</dict>
+		<key>D11B7E13-5CB6-493D-B2B2-645E2CDA3128</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D11B7E13-5CB6-493D-B2B2-645E2CDA3128.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quizzler-iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quizzler-iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Quizzler-iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>596093141.60496497</real>
+			<key>timeStoppedRecording</key>
+			<real>596093143.64579594</real>
+			<key>title</key>
+			<string>Build Quizzler-iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>D11B7E13-5CB6-493D-B2B2-645E2CDA3128</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

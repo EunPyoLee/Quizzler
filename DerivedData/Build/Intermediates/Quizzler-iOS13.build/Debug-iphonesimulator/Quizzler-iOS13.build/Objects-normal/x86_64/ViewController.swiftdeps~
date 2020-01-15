@@ -1,0 +1,785 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "14Quizzler_iOS1314ViewControllerC"
+provides-member:
+- ["14Quizzler_iOS1314ViewControllerC", ""]
+provides-dynamic-lookup:
+- "answerButtonPressed"
+- "falseButton"
+- "progressBar"
+- "questionLabel"
+- "trueButton"
+- "updateUI"
+- "viewDidLoad"
+depends-top-level:
+- !private "%"
+- !private "+"
+- !private "/"
+- !private "=="
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "Float"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "Question"
+- "StringLiteralType"
+- !private "Timer"
+- "UIButton"
+- !private "UIColor"
+- "UILabel"
+- "UIProgressView"
+- "UIViewController"
+- "ViewController"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["s10ArraySliceV", "answer"]
+- !private ["s10ArraySliceV", "text"]
+- !private ["SK", "answer"]
+- !private ["SK", "count"]
+- !private ["SK", "subscript"]
+- !private ["SK", "text"]
+- !private ["SB", "init"]
+- !private ["So15CALayerDelegateP", "backgroundColor"]
+- !private ["So15CALayerDelegateP", "currentTitle"]
+- !private ["So15CALayerDelegateP", "progress"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "Float"]
+- ["s7CVarArgP", "Question"]
+- !private ["s7CVarArgP", "Timer"]
+- !private ["s7CVarArgP", "UIColor"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "backgroundColor"]
+- !private ["s7CVarArgP", "clear"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "currentTitle"]
+- !private ["s7CVarArgP", "falseButton"]
+- !private ["s7CVarArgP", "green"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "progress"]
+- !private ["s7CVarArgP", "progressBar"]
+- !private ["s7CVarArgP", "questionLabel"]
+- !private ["s7CVarArgP", "questionNumber"]
+- !private ["s7CVarArgP", "quizArr"]
+- !private ["s7CVarArgP", "red"]
+- !private ["s7CVarArgP", "scheduledTimer"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "trueButton"]
+- !private ["s7CVarArgP", "updateUI"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "answer"]
+- !private ["Sl", "count"]
+- !private ["Sl", "subscript"]
+- !private ["Sl", "text"]
+- !private ["SL", "init"]
+- !private ["10Foundation15ContiguousBytesP", "answer"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["10Foundation15ContiguousBytesP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "Float"]
+- ["s28CustomDebugStringConvertibleP", "Question"]
+- !private ["s28CustomDebugStringConvertibleP", "Timer"]
+- !private ["s28CustomDebugStringConvertibleP", "UIColor"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "answer"]
+- !private ["s28CustomDebugStringConvertibleP", "backgroundColor"]
+- !private ["s28CustomDebugStringConvertibleP", "clear"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "currentTitle"]
+- !private ["s28CustomDebugStringConvertibleP", "falseButton"]
+- !private ["s28CustomDebugStringConvertibleP", "green"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "progress"]
+- !private ["s28CustomDebugStringConvertibleP", "progressBar"]
+- !private ["s28CustomDebugStringConvertibleP", "questionLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "questionNumber"]
+- !private ["s28CustomDebugStringConvertibleP", "quizArr"]
+- !private ["s28CustomDebugStringConvertibleP", "red"]
+- !private ["s28CustomDebugStringConvertibleP", "scheduledTimer"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "trueButton"]
+- !private ["s28CustomDebugStringConvertibleP", "updateUI"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "answer"]
+- !private ["s17CustomReflectableP", "backgroundColor"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "progress"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "Float"]
+- ["s23CustomStringConvertibleP", "Question"]
+- !private ["s23CustomStringConvertibleP", "Timer"]
+- !private ["s23CustomStringConvertibleP", "UIColor"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "answer"]
+- !private ["s23CustomStringConvertibleP", "backgroundColor"]
+- !private ["s23CustomStringConvertibleP", "clear"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "currentTitle"]
+- !private ["s23CustomStringConvertibleP", "falseButton"]
+- !private ["s23CustomStringConvertibleP", "green"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "progress"]
+- !private ["s23CustomStringConvertibleP", "progressBar"]
+- !private ["s23CustomStringConvertibleP", "questionLabel"]
+- !private ["s23CustomStringConvertibleP", "questionNumber"]
+- !private ["s23CustomStringConvertibleP", "quizArr"]
+- !private ["s23CustomStringConvertibleP", "red"]
+- !private ["s23CustomStringConvertibleP", "scheduledTimer"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "trueButton"]
+- !private ["s23CustomStringConvertibleP", "updateUI"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["10Foundation12DataProtocolP", "answer"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["10Foundation12DataProtocolP", "text"]
+- !private ["Se", "backgroundColor"]
+- !private ["Se", "count"]
+- !private ["Se", "init"]
+- !private ["Se", "progress"]
+- !private ["Se", "subscript"]
+- !private ["Se", "text"]
+- !private ["SE", "backgroundColor"]
+- !private ["SE", "count"]
+- !private ["SE", "init"]
+- !private ["SE", "progress"]
+- !private ["SE", "subscript"]
+- !private ["SE", "text"]
+- !private ["SQ", "Float"]
+- ["SQ", "Question"]
+- !private ["SQ", "Timer"]
+- !private ["SQ", "UIColor"]
+- ["SQ", ""]
+- !private ["SQ", "answer"]
+- !private ["SQ", "backgroundColor"]
+- !private ["SQ", "clear"]
+- !private ["SQ", "count"]
+- !private ["SQ", "currentTitle"]
+- !private ["SQ", "falseButton"]
+- !private ["SQ", "green"]
+- !private ["SQ", "init"]
+- !private ["SQ", "progress"]
+- !private ["SQ", "progressBar"]
+- !private ["SQ", "questionLabel"]
+- !private ["SQ", "questionNumber"]
+- !private ["SQ", "quizArr"]
+- !private ["SQ", "red"]
+- !private ["SQ", "scheduledTimer"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "text"]
+- !private ["SQ", "trueButton"]
+- !private ["SQ", "updateUI"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s25ExpressibleByArrayLiteralP", "answer"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s25ExpressibleByArrayLiteralP", "text"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "backgroundColor"]
+- !private ["s23ExpressibleByNilLiteralP", "progress"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["Sf", "init"]
+- !private ["SF", "init"]
+- !private ["SH", "Float"]
+- ["SH", "Question"]
+- !private ["SH", "Timer"]
+- !private ["SH", "UIColor"]
+- ["SH", ""]
+- !private ["SH", "answer"]
+- !private ["SH", "backgroundColor"]
+- !private ["SH", "clear"]
+- !private ["SH", "count"]
+- !private ["SH", "currentTitle"]
+- !private ["SH", "falseButton"]
+- !private ["SH", "green"]
+- !private ["SH", "init"]
+- !private ["SH", "progress"]
+- !private ["SH", "progressBar"]
+- !private ["SH", "questionLabel"]
+- !private ["SH", "questionNumber"]
+- !private ["SH", "quizArr"]
+- !private ["SH", "red"]
+- !private ["SH", "scheduledTimer"]
+- !private ["SH", "subscript"]
+- !private ["SH", "text"]
+- !private ["SH", "trueButton"]
+- !private ["SH", "updateUI"]
+- !private ["SH", "viewDidLoad"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["SM", "answer"]
+- !private ["SM", "count"]
+- !private ["SM", "subscript"]
+- !private ["SM", "text"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["So8NSCodingP", "Float"]
+- ["So8NSCodingP", "Question"]
+- !private ["So8NSCodingP", "Timer"]
+- !private ["So8NSCodingP", "UIColor"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "backgroundColor"]
+- !private ["So8NSCodingP", "clear"]
+- !private ["So8NSCodingP", "currentTitle"]
+- !private ["So8NSCodingP", "falseButton"]
+- !private ["So8NSCodingP", "green"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "progress"]
+- !private ["So8NSCodingP", "progressBar"]
+- !private ["So8NSCodingP", "questionLabel"]
+- !private ["So8NSCodingP", "questionNumber"]
+- !private ["So8NSCodingP", "quizArr"]
+- !private ["So8NSCodingP", "red"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "trueButton"]
+- !private ["So8NSCodingP", "updateUI"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So9NSCopyingP", "clear"]
+- !private ["So9NSCopyingP", "green"]
+- !private ["So9NSCopyingP", "red"]
+- !private ["So26NSExtensionRequestHandlingP", "Float"]
+- ["So26NSExtensionRequestHandlingP", "Question"]
+- !private ["So26NSExtensionRequestHandlingP", "Timer"]
+- !private ["So26NSExtensionRequestHandlingP", "UIColor"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "falseButton"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "progressBar"]
+- !private ["So26NSExtensionRequestHandlingP", "questionLabel"]
+- !private ["So26NSExtensionRequestHandlingP", "questionNumber"]
+- !private ["So26NSExtensionRequestHandlingP", "quizArr"]
+- !private ["So26NSExtensionRequestHandlingP", "trueButton"]
+- !private ["So26NSExtensionRequestHandlingP", "updateUI"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So21NSItemProviderReadingP", "clear"]
+- !private ["So21NSItemProviderReadingP", "green"]
+- !private ["So21NSItemProviderReadingP", "red"]
+- !private ["So21NSItemProviderWritingP", "clear"]
+- !private ["So21NSItemProviderWritingP", "green"]
+- !private ["So21NSItemProviderWritingP", "red"]
+- !private ["So8NSObjectC", "Float"]
+- ["So8NSObjectC", "Question"]
+- !private ["So8NSObjectC", "Timer"]
+- ["So8NSObjectC", "UIButton"]
+- !private ["So8NSObjectC", "UIColor"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "UIProgressView"]
+- ["So8NSObjectC", "answerButtonPressed"]
+- !private ["So8NSObjectC", "backgroundColor"]
+- !private ["So8NSObjectC", "clear"]
+- !private ["So8NSObjectC", "currentTitle"]
+- ["So8NSObjectC", "falseButton"]
+- !private ["So8NSObjectC", "green"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "progress"]
+- ["So8NSObjectC", "progressBar"]
+- ["So8NSObjectC", "questionLabel"]
+- ["So8NSObjectC", "questionNumber"]
+- ["So8NSObjectC", "quizArr"]
+- !private ["So8NSObjectC", "red"]
+- !private ["So8NSObjectC", "scheduledTimer"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "trueButton"]
+- ["So8NSObjectC", "updateUI"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "Float"]
+- ["So8NSObjectP", "Question"]
+- !private ["So8NSObjectP", "Timer"]
+- !private ["So8NSObjectP", "UIColor"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "backgroundColor"]
+- !private ["So8NSObjectP", "clear"]
+- !private ["So8NSObjectP", "currentTitle"]
+- !private ["So8NSObjectP", "falseButton"]
+- !private ["So8NSObjectP", "green"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "progress"]
+- !private ["So8NSObjectP", "progressBar"]
+- !private ["So8NSObjectP", "questionLabel"]
+- !private ["So8NSObjectP", "questionNumber"]
+- !private ["So8NSObjectP", "quizArr"]
+- !private ["So8NSObjectP", "red"]
+- !private ["So8NSObjectP", "scheduledTimer"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "trueButton"]
+- !private ["So8NSObjectP", "updateUI"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", "clear"]
+- !private ["So14NSSecureCodingP", "green"]
+- !private ["So14NSSecureCodingP", "red"]
+- !private ["Sj", "init"]
+- !private ["Sq", "backgroundColor"]
+- !private ["Sq", "progress"]
+- !private ["Sq", "text"]
+- !private ["14Quizzler_iOS138QuestionV", "answer"]
+- ["14Quizzler_iOS138QuestionV", "init"]
+- !private ["14Quizzler_iOS138QuestionV", "text"]
+- !private ["Sk", "answer"]
+- !private ["Sk", "count"]
+- !private ["Sk", "subscript"]
+- !private ["Sk", "text"]
+- !private ["Sm", "answer"]
+- !private ["Sm", "count"]
+- !private ["Sm", "subscript"]
+- !private ["Sm", "text"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["ST", "answer"]
+- !private ["ST", "count"]
+- !private ["ST", "subscript"]
+- !private ["ST", "text"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So7NSTimerC", "scheduledTimer"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "backgroundColor"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "currentTitle"]
+- !private ["So29UIAccessibilityIdentificationP", "backgroundColor"]
+- !private ["So29UIAccessibilityIdentificationP", "currentTitle"]
+- !private ["So29UIAccessibilityIdentificationP", "progress"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "backgroundColor"]
+- !private ["So12UIAppearanceP", "currentTitle"]
+- !private ["So12UIAppearanceP", "progress"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "Float"]
+- ["So21UIAppearanceContainerP", "Question"]
+- !private ["So21UIAppearanceContainerP", "Timer"]
+- !private ["So21UIAppearanceContainerP", "UIColor"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "backgroundColor"]
+- !private ["So21UIAppearanceContainerP", "currentTitle"]
+- !private ["So21UIAppearanceContainerP", "falseButton"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "progress"]
+- !private ["So21UIAppearanceContainerP", "progressBar"]
+- !private ["So21UIAppearanceContainerP", "questionLabel"]
+- !private ["So21UIAppearanceContainerP", "questionNumber"]
+- !private ["So21UIAppearanceContainerP", "quizArr"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "trueButton"]
+- !private ["So21UIAppearanceContainerP", "updateUI"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So8UIButtonC", "backgroundColor"]
+- !private ["So8UIButtonC", "currentTitle"]
+- !private ["So7UIColorC", "clear"]
+- !private ["So7UIColorC", "green"]
+- !private ["So7UIColorC", "red"]
+- !private ["So18UIContentContainerP", "Float"]
+- ["So18UIContentContainerP", "Question"]
+- !private ["So18UIContentContainerP", "Timer"]
+- !private ["So18UIContentContainerP", "UIColor"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "falseButton"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "progressBar"]
+- !private ["So18UIContentContainerP", "questionLabel"]
+- !private ["So18UIContentContainerP", "questionNumber"]
+- !private ["So18UIContentContainerP", "quizArr"]
+- !private ["So18UIContentContainerP", "trueButton"]
+- !private ["So18UIContentContainerP", "updateUI"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So9UIControlC", "backgroundColor"]
+- !private ["So9UIControlC", "currentTitle"]
+- !private ["So17UICoordinateSpaceP", "backgroundColor"]
+- !private ["So17UICoordinateSpaceP", "currentTitle"]
+- !private ["So17UICoordinateSpaceP", "progress"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "backgroundColor"]
+- !private ["So13UIDynamicItemP", "currentTitle"]
+- !private ["So13UIDynamicItemP", "progress"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "Float"]
+- ["So18UIFocusEnvironmentP", "Question"]
+- !private ["So18UIFocusEnvironmentP", "Timer"]
+- !private ["So18UIFocusEnvironmentP", "UIColor"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "backgroundColor"]
+- !private ["So18UIFocusEnvironmentP", "currentTitle"]
+- !private ["So18UIFocusEnvironmentP", "falseButton"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "progress"]
+- !private ["So18UIFocusEnvironmentP", "progressBar"]
+- !private ["So18UIFocusEnvironmentP", "questionLabel"]
+- !private ["So18UIFocusEnvironmentP", "questionNumber"]
+- !private ["So18UIFocusEnvironmentP", "quizArr"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "trueButton"]
+- !private ["So18UIFocusEnvironmentP", "updateUI"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "backgroundColor"]
+- !private ["So11UIFocusItemP", "currentTitle"]
+- !private ["So11UIFocusItemP", "progress"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "backgroundColor"]
+- !private ["So20UIFocusItemContainerP", "currentTitle"]
+- !private ["So20UIFocusItemContainerP", "progress"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So7UILabelC", "text"]
+- !private ["So24UILargeContentViewerItemP", "backgroundColor"]
+- !private ["So24UILargeContentViewerItemP", "currentTitle"]
+- !private ["So24UILargeContentViewerItemP", "progress"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "Float"]
+- ["So30UIPasteConfigurationSupportingP", "Question"]
+- !private ["So30UIPasteConfigurationSupportingP", "Timer"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIColor"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "backgroundColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "currentTitle"]
+- !private ["So30UIPasteConfigurationSupportingP", "falseButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "progress"]
+- !private ["So30UIPasteConfigurationSupportingP", "progressBar"]
+- !private ["So30UIPasteConfigurationSupportingP", "questionLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "questionNumber"]
+- !private ["So30UIPasteConfigurationSupportingP", "quizArr"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "trueButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "updateUI"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So14UIProgressViewC", "progress"]
+- !private ["So11UIResponderC", "Float"]
+- ["So11UIResponderC", "Question"]
+- !private ["So11UIResponderC", "Timer"]
+- ["So11UIResponderC", "UIButton"]
+- !private ["So11UIResponderC", "UIColor"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "UIProgressView"]
+- ["So11UIResponderC", "answerButtonPressed"]
+- !private ["So11UIResponderC", "backgroundColor"]
+- !private ["So11UIResponderC", "currentTitle"]
+- ["So11UIResponderC", "falseButton"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "progress"]
+- ["So11UIResponderC", "progressBar"]
+- ["So11UIResponderC", "questionLabel"]
+- ["So11UIResponderC", "questionNumber"]
+- ["So11UIResponderC", "quizArr"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "trueButton"]
+- ["So11UIResponderC", "updateUI"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "Float"]
+- ["So30UIResponderStandardEditActionsP", "Question"]
+- !private ["So30UIResponderStandardEditActionsP", "Timer"]
+- !private ["So30UIResponderStandardEditActionsP", "UIColor"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "backgroundColor"]
+- !private ["So30UIResponderStandardEditActionsP", "currentTitle"]
+- !private ["So30UIResponderStandardEditActionsP", "falseButton"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "progress"]
+- !private ["So30UIResponderStandardEditActionsP", "progressBar"]
+- !private ["So30UIResponderStandardEditActionsP", "questionLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "questionNumber"]
+- !private ["So30UIResponderStandardEditActionsP", "quizArr"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "trueButton"]
+- !private ["So30UIResponderStandardEditActionsP", "updateUI"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "backgroundColor"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "currentTitle"]
+- !private ["So16UIStateRestoringP", "Float"]
+- ["So16UIStateRestoringP", "Question"]
+- !private ["So16UIStateRestoringP", "Timer"]
+- !private ["So16UIStateRestoringP", "UIColor"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "falseButton"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "progressBar"]
+- !private ["So16UIStateRestoringP", "questionLabel"]
+- !private ["So16UIStateRestoringP", "questionNumber"]
+- !private ["So16UIStateRestoringP", "quizArr"]
+- !private ["So16UIStateRestoringP", "trueButton"]
+- !private ["So16UIStateRestoringP", "updateUI"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "Float"]
+- ["So18UITraitEnvironmentP", "Question"]
+- !private ["So18UITraitEnvironmentP", "Timer"]
+- !private ["So18UITraitEnvironmentP", "UIColor"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "backgroundColor"]
+- !private ["So18UITraitEnvironmentP", "currentTitle"]
+- !private ["So18UITraitEnvironmentP", "falseButton"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "progress"]
+- !private ["So18UITraitEnvironmentP", "progressBar"]
+- !private ["So18UITraitEnvironmentP", "questionLabel"]
+- !private ["So18UITraitEnvironmentP", "questionNumber"]
+- !private ["So18UITraitEnvironmentP", "quizArr"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "trueButton"]
+- !private ["So18UITraitEnvironmentP", "updateUI"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "Float"]
+- ["So23UIUserActivityRestoringP", "Question"]
+- !private ["So23UIUserActivityRestoringP", "Timer"]
+- !private ["So23UIUserActivityRestoringP", "UIColor"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "backgroundColor"]
+- !private ["So23UIUserActivityRestoringP", "currentTitle"]
+- !private ["So23UIUserActivityRestoringP", "falseButton"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "progress"]
+- !private ["So23UIUserActivityRestoringP", "progressBar"]
+- !private ["So23UIUserActivityRestoringP", "questionLabel"]
+- !private ["So23UIUserActivityRestoringP", "questionNumber"]
+- !private ["So23UIUserActivityRestoringP", "quizArr"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "trueButton"]
+- !private ["So23UIUserActivityRestoringP", "updateUI"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "backgroundColor"]
+- !private ["So6UIViewC", "currentTitle"]
+- !private ["So6UIViewC", "progress"]
+- !private ["So6UIViewC", "text"]
+- !private ["So16UIViewControllerC", "Float"]
+- ["So16UIViewControllerC", "Question"]
+- !private ["So16UIViewControllerC", "Timer"]
+- ["So16UIViewControllerC", "UIButton"]
+- !private ["So16UIViewControllerC", "UIColor"]
+- ["So16UIViewControllerC", "UILabel"]
+- ["So16UIViewControllerC", "UIProgressView"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "answerButtonPressed"]
+- ["So16UIViewControllerC", "falseButton"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "progressBar"]
+- ["So16UIViewControllerC", "questionLabel"]
+- ["So16UIViewControllerC", "questionNumber"]
+- ["So16UIViewControllerC", "quizArr"]
+- ["So16UIViewControllerC", "trueButton"]
+- ["So16UIViewControllerC", "updateUI"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["14Quizzler_iOS1314ViewControllerC", "Float"]
+- ["14Quizzler_iOS1314ViewControllerC", "Question"]
+- !private ["14Quizzler_iOS1314ViewControllerC", "Timer"]
+- ["14Quizzler_iOS1314ViewControllerC", "UIButton"]
+- !private ["14Quizzler_iOS1314ViewControllerC", "UIColor"]
+- ["14Quizzler_iOS1314ViewControllerC", "UILabel"]
+- ["14Quizzler_iOS1314ViewControllerC", "UIProgressView"]
+- ["14Quizzler_iOS1314ViewControllerC", "answerButtonPressed"]
+- ["14Quizzler_iOS1314ViewControllerC", "deinit"]
+- ["14Quizzler_iOS1314ViewControllerC", "falseButton"]
+- ["14Quizzler_iOS1314ViewControllerC", "init"]
+- ["14Quizzler_iOS1314ViewControllerC", "progressBar"]
+- ["14Quizzler_iOS1314ViewControllerC", "questionLabel"]
+- ["14Quizzler_iOS1314ViewControllerC", "questionNumber"]
+- ["14Quizzler_iOS1314ViewControllerC", "quizArr"]
+- ["14Quizzler_iOS1314ViewControllerC", "trueButton"]
+- ["14Quizzler_iOS1314ViewControllerC", "updateUI"]
+- ["14Quizzler_iOS1314ViewControllerC", "viewDidLoad"]
+- !private ["s14_ArrayProtocolP", "answer"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s14_ArrayProtocolP", "text"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "answer"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "text"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s26_ExpressibleByColorLiteralP", "clear"]
+- !private ["s26_ExpressibleByColorLiteralP", "green"]
+- !private ["s26_ExpressibleByColorLiteralP", "red"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Float"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "Question"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Timer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIColor"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backgroundColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "clear"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "currentTitle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "falseButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "green"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "progress"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "progressBar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "questionLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "questionNumber"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "quizArr"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "red"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scheduledTimer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "trueButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "updateUI"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Float"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Question"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Timer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIColor"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "backgroundColor"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "clear"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "currentTitle"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "falseButton"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "green"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "progress"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "progressBar"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "questionLabel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "questionNumber"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "quizArr"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "red"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "scheduledTimer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "trueButton"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "updateUI"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "backgroundColor"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "progress"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "backgroundColor"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "currentTitle"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "progress"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "Sa"
+- !private "s10ArraySliceV"
+- !private "SK"
+- !private "SB"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "Sf"
+- !private "SF"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sj"
+- !private "Sq"
+- "14Quizzler_iOS138QuestionV"
+- !private "Sk"
+- !private "Sm"
+- !private "s10SIMDScalarP"
+- !private "ST"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "s20TextOutputStreamableP"
+- !private "So7NSTimerC"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So8UIButtonC"
+- !private "So7UIColorC"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So7UILabelC"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- !private "So14UIProgressViewC"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "14Quizzler_iOS1314ViewControllerC"
+- !private "s14_ArrayProtocolP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s26_ExpressibleByColorLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/ObjectiveC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreImage.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/QuartzCore.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Dispatch.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Metal.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Darwin.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Foundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreFoundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreGraphics.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Swift.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/UIKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "2e39850b7400df9f63b6939688fd80d4"
