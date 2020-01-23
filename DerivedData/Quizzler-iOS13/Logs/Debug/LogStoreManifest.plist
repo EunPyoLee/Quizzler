@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>10254EB6-556A-406A-9708-F377751F7891</key>
+		<key>448CFF66-0CDD-4954-962E-B59037603731</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>10254EB6-556A-406A-9708-F377751F7891.xcactivitylog</string>
+			<string>448CFF66-0CDD-4954-962E-B59037603731.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Debug Quizzler-iOS13</string>
 			<key>timeStartedRecording</key>
-			<real>600753130.187953</real>
+			<real>601512578.91879296</real>
 			<key>timeStoppedRecording</key>
-			<real>600753318.87375104</real>
+			<real>601512793.36878896</real>
 			<key>title</key>
 			<string>Debug Quizzler-iOS13</string>
 			<key>uniqueIdentifier</key>
-			<string>10254EB6-556A-406A-9708-F377751F7891</string>
+			<string>448CFF66-0CDD-4954-962E-B59037603731</string>
 		</dict>
-		<key>6D77E8B5-7A1F-43D3-96F4-5D958F2422EE</key>
+		<key>660E6E5F-2649-46AB-98A4-D75B0CC89549</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>6D77E8B5-7A1F-43D3-96F4-5D958F2422EE.xcactivitylog</string>
+			<string>660E6E5F-2649-46AB-98A4-D75B0CC89549.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,13 +66,149 @@
 			<key>signature</key>
 			<string>Debug Quizzler-iOS13</string>
 			<key>timeStartedRecording</key>
-			<real>596093092.99174798</real>
+			<real>601508349.85209203</real>
 			<key>timeStoppedRecording</key>
-			<real>596093141.62516403</real>
+			<real>601508396.58492994</real>
 			<key>title</key>
 			<string>Debug Quizzler-iOS13</string>
 			<key>uniqueIdentifier</key>
-			<string>6D77E8B5-7A1F-43D3-96F4-5D958F2422EE</string>
+			<string>660E6E5F-2649-46AB-98A4-D75B0CC89549</string>
+		</dict>
+		<key>67FE0301-3C8F-41E5-ACC4-5BD894737CA6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>67FE0301-3C8F-41E5-ACC4-5BD894737CA6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quizzler-iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quizzler-iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Quizzler-iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>601446378.91745806</real>
+			<key>timeStoppedRecording</key>
+			<real>601448490.04191303</real>
+			<key>title</key>
+			<string>Debug Quizzler-iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>67FE0301-3C8F-41E5-ACC4-5BD894737CA6</string>
+		</dict>
+		<key>82668B0C-7CE1-405C-B87D-74EEE511400A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>82668B0C-7CE1-405C-B87D-74EEE511400A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quizzler-iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quizzler-iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Quizzler-iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>601512267.29658902</real>
+			<key>timeStoppedRecording</key>
+			<real>601512572.70999205</real>
+			<key>title</key>
+			<string>Debug Quizzler-iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>82668B0C-7CE1-405C-B87D-74EEE511400A</string>
+		</dict>
+		<key>83625746-4685-447D-B16D-B5C398692193</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>83625746-4685-447D-B16D-B5C398692193.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quizzler-iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quizzler-iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Quizzler-iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>601508396.64584506</real>
+			<key>timeStoppedRecording</key>
+			<real>601512100.54957795</real>
+			<key>title</key>
+			<string>Debug Quizzler-iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>83625746-4685-447D-B16D-B5C398692193</string>
+		</dict>
+		<key>E2E5937B-D749-47D3-9DF8-D7FE389FF81A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E2E5937B-D749-47D3-9DF8-D7FE389FF81A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quizzler-iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quizzler-iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Quizzler-iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>601508303.75387502</real>
+			<key>timeStoppedRecording</key>
+			<real>601508349.361408</real>
+			<key>title</key>
+			<string>Debug Quizzler-iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>E2E5937B-D749-47D3-9DF8-D7FE389FF81A</string>
 		</dict>
 	</dict>
 </dict>

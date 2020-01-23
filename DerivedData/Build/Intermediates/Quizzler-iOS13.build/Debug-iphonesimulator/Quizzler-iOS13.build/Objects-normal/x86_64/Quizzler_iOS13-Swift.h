@@ -228,18 +228,20 @@ SWIFT_CLASS("_TtC14Quizzler_iOS1313SceneDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UILabel;
 @class UIButton;
 @class UIProgressView;
-@class UILabel;
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC14Quizzler_iOS1314ViewController")
 @interface ViewController : UIViewController
-@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified falseButton;
-@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified trueButton;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified scoreLabel;
+@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified firstButton;
+@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified secondButton;
 @property (nonatomic, weak) IBOutlet UIProgressView * _Null_unspecified progressBar;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified questionLabel;
+@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified thirdButton;
 - (void)viewDidLoad;
 - (IBAction)answerButtonPressed:(UIButton * _Nonnull)sender;
 - (void)updateUI;

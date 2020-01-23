@@ -1,11 +1,202 @@
 ### Swift dependencies file v0 ###
 provides-top-level:
+- "QuizBrain"
 provides-nominal:
+- "14Quizzler_iOS139QuizBrainV"
 provides-member:
+- ["14Quizzler_iOS139QuizBrainV", ""]
 provides-dynamic-lookup:
 depends-top-level:
+- !private "%"
+- !private "+"
+- !private "+="
+- !private "/"
+- !private "=="
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "Float"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "Question"
+- "QuizBrain"
+- "String"
+- "StringLiteralType"
 depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["s10ArraySliceV", "correct"]
+- !private ["s10ArraySliceV", "text"]
+- !private ["SK", "correct"]
+- !private ["SK", "count"]
+- !private ["SK", "subscript"]
+- !private ["SK", "text"]
+- !private ["SB", "init"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["Sl", "correct"]
+- !private ["Sl", "count"]
+- !private ["Sl", "subscript"]
+- !private ["Sl", "text"]
+- !private ["SL", "init"]
+- !private ["10Foundation15ContiguousBytesP", "correct"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["10Foundation15ContiguousBytesP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "correct"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s17CustomReflectableP", "correct"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "correct"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["10Foundation12DataProtocolP", "correct"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["10Foundation12DataProtocolP", "text"]
+- !private ["Se", "count"]
+- !private ["Se", "init"]
+- !private ["Se", "subscript"]
+- !private ["SE", "count"]
+- !private ["SE", "init"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "correct"]
+- !private ["SQ", "count"]
+- !private ["SQ", "init"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "text"]
+- !private ["s25ExpressibleByArrayLiteralP", "correct"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s25ExpressibleByArrayLiteralP", "text"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["Sf", "init"]
+- !private ["SF", "init"]
+- !private ["SH", "correct"]
+- !private ["SH", "count"]
+- !private ["SH", "init"]
+- !private ["SH", "subscript"]
+- !private ["SH", "text"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["SM", "correct"]
+- !private ["SM", "count"]
+- !private ["SM", "subscript"]
+- !private ["SM", "text"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["Sj", "init"]
+- !private ["14Quizzler_iOS138QuestionV", "correct"]
+- ["14Quizzler_iOS138QuestionV", "init"]
+- !private ["14Quizzler_iOS138QuestionV", "text"]
+- ["14Quizzler_iOS139QuizBrainV", "Bool"]
+- ["14Quizzler_iOS139QuizBrainV", "Float"]
+- ["14Quizzler_iOS139QuizBrainV", "Int"]
+- ["14Quizzler_iOS139QuizBrainV", "Question"]
+- ["14Quizzler_iOS139QuizBrainV", "String"]
+- ["14Quizzler_iOS139QuizBrainV", "checkAnswer"]
+- ["14Quizzler_iOS139QuizBrainV", "getProgress"]
+- ["14Quizzler_iOS139QuizBrainV", "getQuestionText"]
+- ["14Quizzler_iOS139QuizBrainV", "getScore"]
+- ["14Quizzler_iOS139QuizBrainV", "init"]
+- ["14Quizzler_iOS139QuizBrainV", "nextQuestion"]
+- ["14Quizzler_iOS139QuizBrainV", "questionNumber"]
+- ["14Quizzler_iOS139QuizBrainV", "quizArr"]
+- ["14Quizzler_iOS139QuizBrainV", "score"]
+- !private ["Sk", "correct"]
+- !private ["Sk", "count"]
+- !private ["Sk", "subscript"]
+- !private ["Sk", "text"]
+- !private ["Sm", "correct"]
+- !private ["Sm", "count"]
+- !private ["Sm", "subscript"]
+- !private ["Sm", "text"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["ST", "correct"]
+- !private ["ST", "count"]
+- !private ["ST", "subscript"]
+- !private ["ST", "text"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s14_ArrayProtocolP", "correct"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s14_ArrayProtocolP", "text"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "correct"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "text"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
 depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "Sa"
+- !private "s10ArraySliceV"
+- !private "SK"
+- !private "SB"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "Sf"
+- !private "SF"
+- !private "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "Sj"
+- "14Quizzler_iOS138QuestionV"
+- "14Quizzler_iOS139QuizBrainV"
+- !private "Sk"
+- !private "Sm"
+- !private "s10SIMDScalarP"
+- !private "ST"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "s20TextOutputStreamableP"
+- !private "s14_ArrayProtocolP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
 depends-dynamic-lookup:
 depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/ObjectiveC.swiftmodule/x86_64.swiftinterface"
@@ -47,4 +238,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "5bf39d8b5f0094ca83c744a0da4fb204"
+interface-hash: "91dd9c95ea937ba500bf24e20e9cf3e0"

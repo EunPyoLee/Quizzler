@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>53D449DF-EC2D-4CA4-9966-71318E1F6CC7</key>
+		<key>1D4F8B3A-48F5-4DE0-83D1-5CB893B7CB0A</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,13 +15,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>53D449DF-EC2D-4CA4-9966-71318E1F6CC7.xcactivitylog</string>
+			<string>1D4F8B3A-48F5-4DE0-83D1-5CB893B7CB0A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Quizzler-iOS13 project</string>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Build Quizzler-iOS13</string>
 			<key>timeStartedRecording</key>
-			<real>600753117.61293602</real>
+			<real>601508071.14765704</real>
 			<key>timeStoppedRecording</key>
-			<real>600753130.14012396</real>
+			<real>601508072.13748503</real>
 			<key>title</key>
 			<string>Build Quizzler-iOS13</string>
 			<key>uniqueIdentifier</key>
-			<string>53D449DF-EC2D-4CA4-9966-71318E1F6CC7</string>
+			<string>1D4F8B3A-48F5-4DE0-83D1-5CB893B7CB0A</string>
 		</dict>
-		<key>D11B7E13-5CB6-493D-B2B2-645E2CDA3128</key>
+		<key>384B2CB6-B1F2-43F8-86A5-98F3D3F28141</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>D11B7E13-5CB6-493D-B2B2-645E2CDA3128.xcactivitylog</string>
+			<string>384B2CB6-B1F2-43F8-86A5-98F3D3F28141.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,13 +66,251 @@
 			<key>signature</key>
 			<string>Build Quizzler-iOS13</string>
 			<key>timeStartedRecording</key>
-			<real>596093141.60496497</real>
+			<real>601512251.74976099</real>
 			<key>timeStoppedRecording</key>
-			<real>596093143.64579594</real>
+			<real>601512267.20798802</real>
 			<key>title</key>
 			<string>Build Quizzler-iOS13</string>
 			<key>uniqueIdentifier</key>
-			<string>D11B7E13-5CB6-493D-B2B2-645E2CDA3128</string>
+			<string>384B2CB6-B1F2-43F8-86A5-98F3D3F28141</string>
+		</dict>
+		<key>4FB80D21-F818-4DC0-BE33-F8BFE1D254E2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4FB80D21-F818-4DC0-BE33-F8BFE1D254E2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quizzler-iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quizzler-iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Quizzler-iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>601508294.61480796</real>
+			<key>timeStoppedRecording</key>
+			<real>601508303.72165895</real>
+			<key>title</key>
+			<string>Build Quizzler-iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>4FB80D21-F818-4DC0-BE33-F8BFE1D254E2</string>
+		</dict>
+		<key>660677A1-ED9D-4611-A30E-03BC3B3844D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>660677A1-ED9D-4611-A30E-03BC3B3844D7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quizzler-iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quizzler-iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Quizzler-iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>601446375.57297802</real>
+			<key>timeStoppedRecording</key>
+			<real>601446378.91407096</real>
+			<key>title</key>
+			<string>Build Quizzler-iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>660677A1-ED9D-4611-A30E-03BC3B3844D7</string>
+		</dict>
+		<key>962A351F-69DC-4416-B3AC-FEA252E95729</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>962A351F-69DC-4416-B3AC-FEA252E95729.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quizzler-iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quizzler-iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Quizzler-iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>601512100.46807802</real>
+			<key>timeStoppedRecording</key>
+			<real>601512100.96905506</real>
+			<key>title</key>
+			<string>Build Quizzler-iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>962A351F-69DC-4416-B3AC-FEA252E95729</string>
+		</dict>
+		<key>A88DB78D-5A08-4CBD-B85F-85401A6395A7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A88DB78D-5A08-4CBD-B85F-85401A6395A7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quizzler-iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quizzler-iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Quizzler-iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>601508396.50187802</real>
+			<key>timeStoppedRecording</key>
+			<real>601508396.64192104</real>
+			<key>title</key>
+			<string>Build Quizzler-iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>A88DB78D-5A08-4CBD-B85F-85401A6395A7</string>
+		</dict>
+		<key>AAFC7EA8-AE6B-41C3-8236-5C53BEB3107C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AAFC7EA8-AE6B-41C3-8236-5C53BEB3107C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quizzler-iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quizzler-iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Quizzler-iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>601512572.76329195</real>
+			<key>timeStoppedRecording</key>
+			<real>601512578.905864</real>
+			<key>title</key>
+			<string>Build Quizzler-iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>AAFC7EA8-AE6B-41C3-8236-5C53BEB3107C</string>
+		</dict>
+		<key>B1420299-6C84-43DF-9BC9-6D4DF070D336</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B1420299-6C84-43DF-9BC9-6D4DF070D336.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quizzler-iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quizzler-iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Quizzler-iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>601508349.12172306</real>
+			<key>timeStoppedRecording</key>
+			<real>601508349.63656902</real>
+			<key>title</key>
+			<string>Build Quizzler-iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>B1420299-6C84-43DF-9BC9-6D4DF070D336</string>
+		</dict>
+		<key>C0239BD9-EAC6-465D-BF85-BE2CC874BDB5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C0239BD9-EAC6-465D-BF85-BE2CC874BDB5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Quizzler-iOS13 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Quizzler-iOS13</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Quizzler-iOS13</string>
+			<key>timeStartedRecording</key>
+			<real>601512793.34884095</real>
+			<key>timeStoppedRecording</key>
+			<real>601512801.02932405</real>
+			<key>title</key>
+			<string>Build Quizzler-iOS13</string>
+			<key>uniqueIdentifier</key>
+			<string>C0239BD9-EAC6-465D-BF85-BE2CC874BDB5</string>
 		</dict>
 	</dict>
 </dict>

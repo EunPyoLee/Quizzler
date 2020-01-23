@@ -12,7 +12,8 @@ depends-top-level:
 - "String"
 depends-member:
 - ["14Quizzler_iOS138QuestionV", "String"]
-- ["14Quizzler_iOS138QuestionV", "answer"]
+- ["14Quizzler_iOS138QuestionV", "choices"]
+- ["14Quizzler_iOS138QuestionV", "correct"]
 - ["14Quizzler_iOS138QuestionV", "init"]
 - ["14Quizzler_iOS138QuestionV", "text"]
 depends-nominal:
@@ -58,4 +59,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "5cde5f3623becab31d840e2313406dcd"
+interface-hash: "c9ecd3ae9d963554622c286eb2e09d31"

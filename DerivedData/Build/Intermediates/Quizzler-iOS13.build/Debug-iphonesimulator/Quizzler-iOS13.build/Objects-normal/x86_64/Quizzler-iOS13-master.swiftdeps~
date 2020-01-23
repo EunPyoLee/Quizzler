@@ -1,9 +1,9 @@
 version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
 options: "70689c2b8617652ae71accd0b02581f6"
-build_time: [1579058084, 933755000]
+build_time: [1579819451, 797497000]
 inputs:
-  "/Users/macbookpro/Documents/iosDev/Quizzler-iOS13/Quizzler-iOS13/Model/QuizBrain.swift": [1579058083, 244306794]
-  "/Users/macbookpro/Documents/iosDev/Quizzler-iOS13/Quizzler-iOS13/Controller/ViewController.swift": [1574400341, 582785463]
-  "/Users/macbookpro/Documents/iosDev/Quizzler-iOS13/Quizzler-iOS13/Model/Question.swift": [1574399346, 708297484]
+  "/Users/macbookpro/Documents/iosDev/Quizzler-iOS13/Quizzler-iOS13/Model/QuizBrain.swift": [1579815494, 606080812]
+  "/Users/macbookpro/Documents/iosDev/Quizzler-iOS13/Quizzler-iOS13/Controller/ViewController.swift": [1579819448, 781978590]
+  "/Users/macbookpro/Documents/iosDev/Quizzler-iOS13/Quizzler-iOS13/Model/Question.swift": [1579815127, 451303386]
   "/Users/macbookpro/Documents/iosDev/Quizzler-iOS13/Quizzler-iOS13/AppDelegate.swift": [1574396348, 965152624]
   "/Users/macbookpro/Documents/iosDev/Quizzler-iOS13/Quizzler-iOS13/SceneDelegate.swift": [1574396348, 992163951]
